@@ -1,1 +1,0 @@
-Dois amigos jogam na Mega-Sena toda semana. Escreva um programa que solicite o valor do primeiro prêmio, do segundo prêmio e do terceiro prêmio, e calcule e retorne quando seria o valor que cada um receberia após a divisão de cada prêmio.
